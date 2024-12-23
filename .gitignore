@@ -55,6 +55,8 @@ Temporary Items
 /.pnp
 .pnp.js
 
+node_modules
+.next
 # testing
 /coverage
 
